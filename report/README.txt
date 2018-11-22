@@ -19,4 +19,3 @@ https://goo.gl/forms/xv8xDsbr3fHYbbYR2
 
 ・コンタクト
 nakahara at ict.e.titech.ac.jp
-(ただし、プログラムが動かない、等の質問は受け付けない)
