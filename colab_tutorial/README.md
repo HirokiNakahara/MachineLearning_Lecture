@@ -9,4 +9,8 @@ Google社Colaboratoryを使って演習を行います。機械学習ライブ�
 # 演習のやり方
 1. このリポジトリを自分のPCにダウンロードする (Colaboratoryから直接参照もできますが、アクセス制限数に達するのでやめてください！)
 2. Googleの検索ページから自身のアカウントのGoogle ドライブを起動
-3. 
+
+![Example](https://github.com/HirokiNakahara/MachineLearning_Lecture/blob/master/colab_tutorial/fig001.png)
+
+
+
