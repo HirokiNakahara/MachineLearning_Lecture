@@ -17,8 +17,10 @@ Google社Colaboratoryを使って演習を行います。機械学習ライブ�
 ![Example](https://github.com/HirokiNakahara/MachineLearning_Lecture/blob/master/colab_tutorial/fig002.png)
 
 4. Google Colaboratoryが起動するので、ファイル→ノートブックをアップロード を選択して、1. でダウンロードしたノートブックを選択
-
 - 注意: このレポジトリから直接参照もできますが、Githubのアクセス制限数を超える可能性があるので、必ず各自のPC(ローカル）にダウンロードしてからアップロードてください
+
+![Example](https://github.com/HirokiNakahara/MachineLearning_Lecture/blob/master/colab_tutorial/fig003.png)
+
 
 5. ノートブックを上から実行していく
 
