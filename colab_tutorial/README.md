@@ -4,6 +4,7 @@ Google社Colaboratoryを使って演習を行います。機械学習ライブ�
 ## 必要な環境
 - インターネットに接続したPC（タブレットも使用可能だと思いますが、各自で対応してください。スマフォも設定すれば対応可能です。）
 - Googleアカウント
+- Google Chorme ブラウザ（他のブラウザでも可能ですが、Chromeを使うことを奨励）
 
 ## 演習のやり方
 1. このリポジトリを自分のPCにダウンロードする (Colaboratoryから直接参照もできますが、アクセス制限数に達するのでやめてください！)
@@ -16,6 +17,9 @@ Google社Colaboratoryを使って演習を行います。機械学習ライブ�
 ![Example](https://github.com/HirokiNakahara/MachineLearning_Lecture/blob/master/colab_tutorial/fig002.png)
 
 4. Google Colaboratoryが起動するので、ファイル→ノートブックをアップロード を選択して、1. でダウンロードしたノートブックを選択
+
+- 注意: このレポジトリから直接参照もできますが、Githubのアクセス制限数を超える可能性があるので、必ず各自のPC(ローカル）にダウンロードしてからアップロードてください
+
 5. ノートブックを上から実行していく
 
 ## 必須ではないが奨励知識
