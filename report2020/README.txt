@@ -13,7 +13,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdPxrXXxPZVFdFCZNxNwOjptVb4s870CqrFgm0-
 (提出は一度限りです。注意してください)
 
 ・提出〆切
-１2月26日（JST 23:59）
+１1月26日（JST 23:59）
 
 ・評価
 提出点（課題クリア）
