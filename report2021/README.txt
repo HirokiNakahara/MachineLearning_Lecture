@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1R65mutZnIMdMhYp2d2XE_vNSnu_wW4iZ/view?usp=shari
 ・提出先
 提出は１度限りなので、注意して投稿すること。
 
-https://forms.gle/9YoijBBovj3j9A1z7
+https://forms.gle/BZFyZSzijackyQ817
 
 ・提出〆切
 １1月29日(月)（JST 23:59）
